@@ -5,3 +5,4 @@ git commit -m "message": move files in staging area to local repo
 git branch <branch-name> # this create a new branch
 git branch # lists all branches
 git checkout <the-branch-name> # switch to a plot
+git log 
