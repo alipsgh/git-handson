@@ -1,0 +1,4 @@
+git init: initiates a git repo
+git status: list files that are changed
+git add <file_name>: add file_name to the staging area
+git commit -m "message": move files in staging area to local repo
